@@ -1,0 +1,1 @@
+- I am a first year student at Northeastern University's Honors College studying Computer Science
