@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently taking the following classes:
-
-        - Fundamentals of Computer Science 1 (Accelerated)
-  
-        - Discrete Structures
-  
-        - Introduction to Mathematical Reasoning
-  
-        - Linear Algebra
 
 <!--
 **apric0ts/apric0ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
