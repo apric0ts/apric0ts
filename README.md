@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=apric0ts&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apric0ts&size_weight=.75&count_weight=3&layout=donut&theme=synthwave)
+
 <!--
 **apric0ts/apric0ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=apric0ts&show_icons=true&theme=synthwave)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
