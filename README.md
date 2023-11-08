@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Freshman @ Northeastern University
+I'm Austin, a current freshman studying Computer Science at Northeastern University
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=apric0ts&show_icons=true&theme=synthwave&include_all_commits=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apric0ts&size_weight=.75&count_weight=3&layout=donut&theme=synthwave)
