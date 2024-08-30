@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm Austin, a first-year student pursuing Computer Science at Northeastern University
-- I'm passionate about exploring the intersections between robotics and virtual environments
+- I'm Austin, a second-year student pursuing Computer Science at Northeastern University
+- I'm passionate about exploring the intersections between robotics and virtual environments through digital twins
 - Contact: hwang.au@northeastern.edu
 - More about me: https://apric0ts.github.io
 
