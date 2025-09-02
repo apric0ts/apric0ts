@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- I'm Austin, a second-year student pursuing Computer Science at Northeastern University
+- I'm Austin, a third-year student pursuing Computer Science at Northeastern University
 - I'm passionate about exploring the intersections between robotics and virtual environments through digital twins
-- Contact: hwang.au@northeastern.edu
-- More about me: https://apric0ts.github.io
+- Contact: hwang.au@northeastern.edu or austin.m.hwang@gmail.com
 <!--
+- More about me: https://apric0ts.github.io
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=apric0ts&show_icons=true&theme=synthwave&include_all_commits=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apric0ts&size_weight=.75&count_weight=3&layout=donut&theme=synthwave)
 -->
